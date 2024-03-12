@@ -1,0 +1,5 @@
+API Gateway : https://tup233zy1i.execute-api.us-east-1.amazonaws.com/dev
+
+ARN : arn:aws:dynamodb:us-east-1:718719493230:table/PowerOfMathDatabase2
+
+Deployed Website Link : https://dev.d1mj3f9zpeqgth.amplifyapp.com/
